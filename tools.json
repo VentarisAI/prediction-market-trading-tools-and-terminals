@@ -6093,5 +6093,27 @@
   "sources": [
    "https://github.com/bmorphism/manifold-mcp-server"
   ]
+ },
+ {
+  "name": "Anveric",
+  "url": "https://anveric.com/",
+  "category": "Terminals & Aggregators",
+  "description": "Windows workspace for monitoring held Kalshi positions, configuring custom alerts and optional Sentinel sell plans, with a paired Android companion.",
+  "venues": [
+   "Kalshi"
+  ],
+  "executes_trades": true,
+  "pricing": "Shared free beta planned November 9–December 9, 2026; $12.99/month or $99/year plus applicable tax afterward.",
+  "open_source": false,
+  "github": null,
+  "backers": null,
+  "status": "unverified",
+  "status_note": "Pre-launch as observed November 8, 2026. Public site and previews load; installed beta admission is scheduled for November 9 and was not independently activated. Sentinel is documented as placing user-configured sell orders; no live execution test was performed for this listing. Windows must remain online. The schema has no pre-launch enum, so unverified is used pending maintainer review. Listed under Terminals & Aggregators because optional Sentinel selling goes beyond the read-only Alerts category.",
+  "last_verified": "2026-11-08",
+  "sources": [
+   "https://anveric.com/",
+   "https://anveric.com/about",
+   "https://anveric.com/kalshi-stop-loss"
+  ]
  }
 ]
